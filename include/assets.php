@@ -2,7 +2,7 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge"> <!-- Compatiblidade com o internet explorer -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Tamanho para diferentes dispositivos -->
 
-<link rel="shortcut icon" href="assets/img/favicon/favicon.ico"> <!-- Icon -->
+<link rel="shortcut icon" href="assets/img/favicon/icon.png"> <!-- Icon -->
 
 <link type="text/css" rel="stylesheet" href="assets/css/bootstrap.css"> <!-- Folha de estilos Bootstrap (estilos predefinidos) -->
 <link rel="stylesheet" href="assets/css/style.css"> <!-- Folha de estilos customizada -->
