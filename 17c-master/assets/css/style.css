@@ -1,0 +1,17 @@
+/* Estilo para o rodapé manter-se no final da página */
+html, body {
+	height: 100%;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+}
+
+#wrap {
+	flex: 1 0 auto;
+}
+
+#footer {
+	flex-shrink: 0;
+}
